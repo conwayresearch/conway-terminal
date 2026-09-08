@@ -1,4 +1,4 @@
-# Conway              <img src="https://i.ibb.co/kgtjtTtB/F8-D5-D96-C-E5-C7-4-CF6-8-DA2-831-EE987-E704.webp" alt="Chucho" width="50" />
+# Conway              <img src="https://i.ibb.co/kgtjtTtB/F8-D5-D96-C-E5-C7-4-CF6-8-DA2-831-EE987-E704.webp" alt="Chucho" width="40" />
 
 **Conway** is an autonomous trading agent that hunts for asymmetric, short-horizon
 expected value (EV) across onchain memecoin markets and equity/options orderflow.
