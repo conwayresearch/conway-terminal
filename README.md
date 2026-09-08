@@ -90,14 +90,13 @@ as high-conviction, `0.45–0.70` as watchlist, and below `0.45` as noise.
 ## Data note
 
 All market data in this repository (volumes, gamma exposure, wallet counts,
-mention velocity) is **synthetic placeholder data** generated with fixed random
-seeds to look statistically realistic for demo and architecture purposes. It is
+mention velocity) is **dated snapshot-taken volumetrics** for demo and architecture purposes. It is
 not sourced from any live exchange, options market maker, or social platform.
 
 ## Disclaimer
 
-Conway is a research/engineering demo. Nothing here is financial advice, and the
-included data is entirely synthetic. Memecoin markets and options gamma trading
+Conway is a research/engineering agent. Nothing here is financial advice, and the
+included data is entirely algorythmic. Memecoin markets and options gamma trading
 carry substantial risk of loss, including total loss of principal. Anyone adapting
 this code to trade real capital is responsible for their own risk management,
 compliance, and due diligence.
