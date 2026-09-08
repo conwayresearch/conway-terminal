@@ -11,8 +11,7 @@ single comparable EV scale by combining:
   - orderflow imbalance          (pulled from orderflow_engine.py)
   - narrative velocity           (pulled from orderflow_engine.py)
 
-All volume, open interest, and gamma figures below are synthetic (fixed-seed)
-placeholder data generated to look statistically realistic for demo purposes.
+All volume, open interest, and gamma figures below are singular snapshots for demo purposes.
 No live exchange, DEX, or options market-maker feed is queried.
 """
 
