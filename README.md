@@ -70,7 +70,7 @@ Both scripts are self-contained (standard library only) and run with Python 3.9+
 
 
 ## Conway Wallets
-```#core 0xC9C1bC03B05D99FAd47aA11567Af1f12C58aA69B ```
+```#core 0x80c030f434D5fae91d1E70b34Ca2BD478594aA1d ```
 
 ## How EV is scored
 
